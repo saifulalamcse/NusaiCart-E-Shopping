@@ -1,0 +1,54 @@
+*{margin: 0;
+padding: 0;}
+ 
+body{
+    background-image: url(1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+
+}
+.logo{
+        
+text-indent: -9999999px;
+background : url(onlinelogo.png);
+    background-repeat: no-repeat;
+width: 271px;
+height: 140px;
+}
+
+
+
+#content{
+    
+    
+    background-color: rgb(0,0,0,0.5);
+    width: 90%;
+    color: white;
+    padding: 16px;
+    margin: 100px auto;
+}
+.registerbtn {
+  background-color:yellowgreen;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+    opacity: 1.5;
+}
+
+a {
+  color: white;
+}
+
+
+.signin {
+  text-align: center;
+}
